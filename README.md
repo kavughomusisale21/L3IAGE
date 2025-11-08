@@ -47,3 +47,4 @@
 | mumbere     | ndako    | Elie |
 | MBAMBU     | SIVALINGANA    | Sarah |
 | Furaha     | Hangi    | Jessica |
+| KAVUGHO     | MUSISALE    | Baraka |

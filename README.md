@@ -47,6 +47,7 @@
 | mumbere     | ndako    | Elie |
 | MBAMBU     | SIVALINGANA    | Sarah |
 | Furaha     | Hangi    | Jessica |
+| KOMBI     | BINYATSI    | Benedicte |
 | KAVIRA     | KAHONGYA    | Miriam |
 | Basani    | Avuta    | Franck |
 | KASOKI     | MULIMI    |Blandine|

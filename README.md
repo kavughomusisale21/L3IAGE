@@ -48,3 +48,11 @@
 | MBAMBU     | SIVALINGANA    | Sarah |
 | Furaha     | Hangi    | Jessica |
 | Kambale     | Muhita    | Samy |
+| KOMBI     | BINYATSI    | Benedicte |
+| KAVIRA     | KAHONGYA    | Miriam |
+| Basani    | Avuta    | Franck |
+| KASOKI     | MULIMI    |Blandine|
+| Muhindo    | Kisumba   | Espoir |
+| kavira    | mutambo   | zawadi |
+| Mbelu    | Kongolo   | Josline |
+| KAKULE    | KAVENDIVWA   | Enock |
